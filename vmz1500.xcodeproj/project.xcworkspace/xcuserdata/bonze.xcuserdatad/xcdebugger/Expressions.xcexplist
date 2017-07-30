@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Z80::_op_28():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_22():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::exec():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vmz1500Psg::~Vmz1500Psg():vmz1500sound.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_1f():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_b7():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_dd():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MemoryBlockIORom::replace(int, unsigned char const&amp;):vmz1500.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "I8253Cnt::rate() const:i8253.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_setByteAtAdr(unsigned short, unsigned char):z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Sn76489::set(unsigned char):sn76489.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vmz1500::run():vmz1500.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_execOp(unsigned char):z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vmz1500::write8253Ctrl(unsigned char):vmz1500.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_3a():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_fe():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80PioPort::intVector() const:z80pio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_bit(unsigned char, unsigned char):z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_dd_e9():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_cb():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_ed_b0():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_c8():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "I8253Cnt::read():i8253.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "SqWavGen::~SqWavGen()::$_0::operator()(std::__1::pair&lt;int, Mix_Chunk*&gt;) const:vmz1500sound.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "SqWavGen::~SqWavGen():vmz1500sound.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_7c():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_e9():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_21():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_4f():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_e3():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "I8253Cnt::count():i8253.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_23():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80Pio::reti():z80pio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_da():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vmz1500Psg::init():vmz1500sound.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80PioPort::reti():z80pio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_77():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vmz1500Psg::Vmz1500Psg(int):vmz1500sound.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80Pio::intVector() const:z80pio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80PioPort::interrupt() const:z80pio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80PioPort::setData(unsigned char, unsigned char):z80pio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_d3():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "I8253Cnt::out() const:i8253.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_fb():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_getByteAtAdr(unsigned short):z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "SqWavGen::waveChunk(int):vmz1500sound.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_ed_4d():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "I8253Cnt::isUpdated() const:i8253.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_38():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_32():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_36():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_07():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_c9():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_c3():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "I8253Cnt::gate() const:i8253.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "SqWavGen::~SqWavGen()::$_0 std::__1::for_each&lt;std::__1::__map_iterator&lt;std::__1::__tree_iterator&lt;std::__1::__value_type&lt;int, Mix_Chunk*&gt;, std::__1::__tree_node&lt;std::__1::__value_type&lt;int, Mix_Chunk*&gt;, void*&gt;*, long&gt; &gt;, SqWavGen::~SqWavGen()::$_0&gt;(std::__1::__map_iterator&lt;std::__1::__tree_iterator&lt;std::__1::__value_type&lt;int, Mix_Chunk*&gt;, std::__1::__tree_node&lt;std::__1::__value_type&lt;int, Mix_Chunk*&gt;, void*&gt;*, long&gt; &gt;, std::__1::__map_iterator&lt;std::__1::__tree_iterator&lt;std::__1::__value_type&lt;int, Mix_Chunk*&gt;, std::__1::__tree_node&lt;std::__1::__value_type&lt;int, Mix_Chunk*&gt;, void*&gt;*, long&gt; &gt;, SqWavGen::~SqWavGen()::$_0) [inlined]:algorithm">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_op_ed_5e():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Z80::_handleIrq():z80.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Vmz1500::set8253Cnt0Mask(bool):vmz1500.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "false">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "I8253::gate(unsigned char) const:i8253.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
